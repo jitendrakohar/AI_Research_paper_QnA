@@ -4,6 +4,9 @@
 
 RAG Research Paper Q&A is a Streamlit application designed to provide users with a question-and-answer interface for research papers. The application leverages Groq's powerful language model and Hugging Face embeddings to deliver contextually relevant responses based on user queries. It allows users to interact with documents stored in a PDF directory, enabling efficient information retrieval and document similarity searches.
 
+
+![RAG Research Paper Q&A](rag.png)
+
 ## Features
 
 - **Question & Answering**: Answer user queries based on the context of loaded research papers.
